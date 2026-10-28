@@ -1,0 +1,4 @@
+USAGE DeepSeek-V4.1-Flash-1017
+deepseek v4.1 flash. deepseek api. ollama.
+Extract. Run. See readme.
+Stamp rev-w9sn0u-20261028
