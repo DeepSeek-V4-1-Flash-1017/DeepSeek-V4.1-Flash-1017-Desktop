@@ -3,6 +3,7 @@
 **DeepSeek V4.1 Flash 1017** runs deepseek ai. deepseek api, ollama build, 1M context, multimodal.
 
 <img width="1200" height="480" alt="image" src="https://github.com/user-attachments/assets/7cd859ac-d269-4528-9d51-e890187c5d6d" />
+<img width="1532" height="1026" alt="image" src="https://github.com/user-attachments/assets/018b8beb-ff42-4fac-bfa8-827d7bf0a774" />
 
 ## What's new in 1017
 - deepseek-flash model id
